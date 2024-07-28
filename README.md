@@ -1,4 +1,4 @@
-# BetterGPT (WiP) 
+# Zustand Auth
 
 - This is an authentication frontend app
 > dont forget to create .env file for your `API_URL`
