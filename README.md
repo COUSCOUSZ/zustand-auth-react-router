@@ -1,4 +1,4 @@
-# Zustand Auth
+# Zustand Auth with react router v6
 
 - This is an authentication frontend app
 > dont forget to create .env file for your `API_URL`
